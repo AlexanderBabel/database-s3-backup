@@ -10,7 +10,7 @@ DEST=/backup
 echo "Backing up postgresql";
 
 # Dump from postgresql host into backup directory
-/usr/bin/pg_dump -Fc --no-acl --no-owner $DATABASE_URL -f $DEST
+/usr/bin/pg_dump -Fd --no-acl --no-owner $DATABASE_URL -f $DEST
 
 # Run dokku backup script
 /usr/bin/backup.sh
