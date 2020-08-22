@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/AlexanderBabel/database-s3-backup/compare/v1.0.0...v1.0.1) (2020-08-22)
+
+
+### Bug Fixes
+
+* **postgresql:** change format ([4564794](https://github.com/AlexanderBabel/database-s3-backup/commit/45647940d6691bc84d1735d1d78068f1f92b6b81))
+
 # 1.0.0 (2020-08-22)
 
 
