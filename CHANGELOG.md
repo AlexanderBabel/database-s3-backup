@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/AlexanderBabel/database-s3-backup/compare/v1.0.1...v1.1.0) (2021-08-26)
+
+
+### Features
+
+* rename master to main ([c31a26b](https://github.com/AlexanderBabel/database-s3-backup/commit/c31a26be4d7b0ebbfafdf2f39461bb6742fb6adf))
+
 ## [1.0.1](https://github.com/AlexanderBabel/database-s3-backup/compare/v1.0.0...v1.0.1) (2020-08-22)
 
 
