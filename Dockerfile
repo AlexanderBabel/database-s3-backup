@@ -1,4 +1,4 @@
-FROM dokku/s3backup:0.11.1
+FROM alexbabel/s3backup:0.11.2
 
 RUN apk add --no-cache mongodb-tools postgresql-client
 
