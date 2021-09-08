@@ -2,7 +2,7 @@
 
 if [[ $DATABASE_URL = mongodb://* ]]; then
   /usr/bin/mongodb.sh
-elif [[ $DATABASE_URL = postgresql://* ]]; then
+elif [[ $DATABASE_URL = postgresql://* ]] || [[ $DATABASE_URL = postgres://* ]]; then
   /usr/bin/postgresql.sh
 elif [[ $DATABASE_URL = mysql://* ]]; then
   /usr/bin/mysql.sh
