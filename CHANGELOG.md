@@ -1,3 +1,15 @@
+# [1.3.0](https://github.com/AlexanderBabel/database-s3-backup/compare/v1.2.2...v1.3.0) (2021-09-08)
+
+
+### Bug Fixes
+
+* **mysql:** fix Segmentation fault error ([c6c0717](https://github.com/AlexanderBabel/database-s3-backup/commit/c6c071741ca43dedffd85087cd28e8cddae72b50))
+
+
+### Features
+
+* add entrypoint ([12fbfd8](https://github.com/AlexanderBabel/database-s3-backup/commit/12fbfd8ee25ca5caf162cc2e5a49269ec775b6af))
+
 ## [1.2.2](https://github.com/AlexanderBabel/database-s3-backup/compare/v1.2.1...v1.2.2) (2021-09-08)
 
 
