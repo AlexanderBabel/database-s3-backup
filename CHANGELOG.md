@@ -1,3 +1,10 @@
+## [1.2.2](https://github.com/AlexanderBabel/database-s3-backup/compare/v1.2.1...v1.2.2) (2021-09-08)
+
+
+### Bug Fixes
+
+* update .releaserc.json ([639e0ec](https://github.com/AlexanderBabel/database-s3-backup/commit/639e0ec428c64a863bb46b5562abf9b429287db2))
+
 ## [1.2.1](https://github.com/AlexanderBabel/database-s3-backup/compare/v1.2.0...v1.2.1) (2021-09-08)
 
 
