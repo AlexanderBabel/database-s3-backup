@@ -25,6 +25,9 @@
     "@semantic-release/commit-analyzer",
     "@semantic-release/release-notes-generator",
     "@semantic-release/github",
-    "@alexbabel/semantic-release-docker"
+    {
+      "path": "@alexbabel/semantic-release-docker",
+      "skipPublish": true
+    }
   ]
 }
