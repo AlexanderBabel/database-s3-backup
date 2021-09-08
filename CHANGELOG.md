@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/AlexanderBabel/database-s3-backup/compare/v1.1.0...v1.2.0) (2021-09-08)
+
+
+### Features
+
+* add mysql script ([2aa22ce](https://github.com/AlexanderBabel/database-s3-backup/commit/2aa22ced52724b0054e6c55d99933daeb9e51088))
+
 # [1.1.0](https://github.com/AlexanderBabel/database-s3-backup/compare/v1.0.1...v1.1.0) (2021-08-26)
 
 
