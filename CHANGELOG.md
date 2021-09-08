@@ -1,3 +1,10 @@
+## [1.3.1](https://github.com/AlexanderBabel/database-s3-backup/compare/v1.3.0...v1.3.1) (2021-09-08)
+
+
+### Bug Fixes
+
+* update password parameter ([bbc1b3b](https://github.com/AlexanderBabel/database-s3-backup/commit/bbc1b3bb5ba6adbb2ad95f7290652c7f25c956e4))
+
 # [1.3.0](https://github.com/AlexanderBabel/database-s3-backup/compare/v1.2.2...v1.3.0) (2021-09-08)
 
 
