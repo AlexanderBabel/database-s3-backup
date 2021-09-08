@@ -10,7 +10,7 @@ DEST=/backup
 echo "Backing up mysql"
 
 # Dump from postgresql host into backup directory
-eval "$(python3 /usr/bin/mysql-cmd.py)" > "$DEST/dump.sql"
+/usr/bin/mysqldump $(python3 /usr/bin/mysql.py) > "$DEST/dump.sql"
 
 # Run dokku backup script
 /usr/bin/backup.sh

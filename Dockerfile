@@ -6,6 +6,6 @@ COPY entrypoint.sh /usr/bin/entrypoint.sh
 COPY mongodb.sh /usr/bin/mongodb.sh
 COPY postgresql.sh /usr/bin/postgresql.sh
 COPY mysql.sh /usr/bin/mysql.sh
-COPY mysql-cmd.py /usr/bin/mysql-cmd.py
+COPY mysql.py /usr/bin/mysql.py
 
 CMD /usr/bin/entrypoint.sh
