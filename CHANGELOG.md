@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/AlexanderBabel/database-s3-backup/compare/v1.2.0...v1.2.1) (2021-09-08)
+
+
+### Bug Fixes
+
+* update mysql cmd ([6fc3367](https://github.com/AlexanderBabel/database-s3-backup/commit/6fc3367c860e4cf85fe7ea219a6001e75c46c88d))
+
 # [1.2.0](https://github.com/AlexanderBabel/database-s3-backup/compare/v1.1.0...v1.2.0) (2021-09-08)
 
 
