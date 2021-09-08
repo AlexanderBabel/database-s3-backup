@@ -12,7 +12,7 @@
       -e BACKUP_NAME=backup \
       -e ENCRYPTION_KEY=your_secret_passphrase
       -e DATABASE_URL=mongodb://user:password@host:port/database?replicaSet=rs0&authSource=authDatabase
-      IMAGE_NAME mongodb.sh
+      ghcr.io/alexanderbabel/database-s3-backup
 ```
 
 ### Postgresql Backup
@@ -25,7 +25,7 @@
       -e BACKUP_NAME=backup \
       -e ENCRYPTION_KEY=your_secret_passphrase
       -e DATABASE_URL=postgresql://user:password@host:port/database
-      IMAGE_NAME postgresql.sh
+      ghcr.io/alexanderbabel/database-s3-backup
 ```
 
 ### MySQL Backup
@@ -38,5 +38,5 @@
       -e BACKUP_NAME=backup \
       -e ENCRYPTION_KEY=your_secret_passphrase
       -e DATABASE_URL=mysql://user:password@host:port/database
-      IMAGE_NAME mysql.sh
+      ghcr.io/alexanderbabel/database-s3-backup
 ```
