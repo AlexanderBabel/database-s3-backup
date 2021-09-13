@@ -1,5 +1,7 @@
 # database-s3-backup
 
+Docker Image that takes care of MongoDB, PostgreSQL and MySQL Backups. Creates a dump with compression and encryption support and uploads it to an S3 compatible endpoint.
+
 ## Usage
 
 ### Mongo Backup
