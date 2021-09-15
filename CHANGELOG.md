@@ -1,3 +1,10 @@
+## [1.3.3](https://github.com/AlexanderBabel/database-s3-backup/compare/v1.3.2...v1.3.3) (2021-09-15)
+
+
+### Bug Fixes
+
+* **Dockerfile:** switch back to dokku image ([26e24f4](https://github.com/AlexanderBabel/database-s3-backup/commit/26e24f468dbaafceddb077cff79f35ad233fa9de))
+
 ## [1.3.2](https://github.com/AlexanderBabel/database-s3-backup/compare/v1.3.1...v1.3.2) (2021-09-08)
 
 
