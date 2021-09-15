@@ -1,4 +1,4 @@
-FROM alexbabel/s3backup:0.11.2
+FROM dokku/s3backup:0.12.0
 
 RUN apk add --no-cache mongodb-tools postgresql-client mysql-client python3 bash && rm -f /var/cache/apk/*
 
