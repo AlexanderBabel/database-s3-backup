@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/AlexanderBabel/database-s3-backup/compare/v1.3.3...v1.4.0) (2022-04-28)
+
+
+### Features
+
+* update to postgresql 14 and alpine 3.15 ([13293ca](https://github.com/AlexanderBabel/database-s3-backup/commit/13293cad0a57776d2b57e8615ffbb1fbbb36c904))
+
 ## [1.3.3](https://github.com/AlexanderBabel/database-s3-backup/compare/v1.3.2...v1.3.3) (2021-09-15)
 
 
