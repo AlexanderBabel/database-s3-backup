@@ -1,6 +1,6 @@
-FROM alexbabel/s3backup:0.13.0
+FROM alexbabel/s3backup:0.15.0
 
-RUN apk add --no-cache mongodb-tools postgresql14-client mysql-client python3 bash && rm -f /var/cache/apk/*
+RUN apk add --no-cache mongodb-tools postgresql15-client mysql-client python3 bash && rm -f /var/cache/apk/*
 
 COPY entrypoint.sh /usr/bin/entrypoint.sh
 COPY mongodb.sh /usr/bin/mongodb.sh
