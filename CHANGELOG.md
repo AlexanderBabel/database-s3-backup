@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/AlexanderBabel/database-s3-backup/compare/v1.4.0...v2.0.0) (2023-03-21)
+
+
+### Features
+
+* **Dockerfile:** bump base image and postgresql client ([bf563d0](https://github.com/AlexanderBabel/database-s3-backup/commit/bf563d0aed9562eea1ea763e389ccc1a17532f1e))
+
+
+### BREAKING CHANGES
+
+* **Dockerfile:** bump PostgreSQL version to 15
+
 # [1.4.0](https://github.com/AlexanderBabel/database-s3-backup/compare/v1.3.3...v1.4.0) (2022-04-28)
 
 
